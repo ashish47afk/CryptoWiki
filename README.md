@@ -6,4 +6,4 @@ Run the project by typing :
 
 Runs the app in the development mode.<br>
 
-Check Console for errors !
+Check Console !
